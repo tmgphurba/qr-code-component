@@ -6,11 +6,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 <img src="https://i.imgur.com/Jam3syL.jpeg">
 
 <h3>Links:</h3>
-- Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-project-fq2nzyiIMW
+- Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-project-fq2nzyiIMW<br>
 - Live Site URL: https://qr-code-component-liard-five.vercel.app
 
 <h3>Built Using:</h3>
-- HTML
+- HTML<br>
 - CSS
 
 <h3>Author:</h3>
